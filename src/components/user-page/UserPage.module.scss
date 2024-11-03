@@ -1,0 +1,21 @@
+.avatar {
+    width: 100px;
+    height: 100px;
+}
+.star {
+    width: 20px;
+    height: 20px;
+}
+.feedback {
+    border-bottom: 1px solid gray;
+}
+.feedbackForm{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+}
+#feedbackBtn {
+    width: 10vw;
+}

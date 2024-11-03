@@ -1,0 +1,11 @@
+.formContainer {
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10vh;
+
+    .form {
+        width: 20vw;
+    }
+}
